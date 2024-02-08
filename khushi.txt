@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>
+welcome</title>
+<center>
+<body>
+<h1>welcome to hubli</h1>
+</body>
+</center>
+</html>
